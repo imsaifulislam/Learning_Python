@@ -1,0 +1,8 @@
+* Dunder Method
+* magic Method
+* Inner FUnction 
+* Decorator
+* property / setter / getter / deleter
+* statciMethod / CLass Method ❌
+* private
+* funcTools --> Partical / cache

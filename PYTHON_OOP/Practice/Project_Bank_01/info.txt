@@ -1,0 +1,6 @@
+Banking Management System
+
+* Create Class --> Bank Account
+* Constractor for --> Name & Ammount
+* Method for Get Blance :- ShowBlance
+* Method for Diposit :- Diposit Money

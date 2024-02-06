@@ -1,0 +1,30 @@
+Learn
+
+    ==> Class
+        => ✅ Instance Variable / Instance Method
+
+    ==> Constarctor {__init__}
+        => ✅ PassByReferance
+        => PassByValue
+        => Import Class
+        => ✅ Parameterized Constarctor & NoN Parameterized Constarctor
+        => Method Overloadding
+        => Constarctor Overloadding
+        => Args & Kargs
+    
+    ==> Inheritance
+        => Singel Inheritance
+        => Multilevel Inheritance
+        => Multiple Inheritance
+    
+    ==> Encapsulation
+        => Getter
+        => Setter
+
+    ==> Polymorphism
+
+-------------------------------------------------------------
+
+||> Projects
+
+    -> Banking System

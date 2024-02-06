@@ -1,0 +1,10 @@
+Which type project i can craete
+
+* voice assistant [like as google home]
+* love calculator
+* face recognigation
+* fllipi bird
+* snakck game
+* Qr Code Genarator
+* Tic Tac TOO game
+* 
