@@ -17,7 +17,7 @@ obj = student() """
 # =================
 
 # = privat Method
-class student:
+""" class student:
     __name = "Shanto"
     
     def __init__(self):
@@ -27,6 +27,24 @@ class student:
     def __displayInfo(self):
         print("Private Methods")
 
-obj = student()
+obj = student() """
 
 # obj.__displayInfo()
+
+# ================================
+
+
+class Student:
+    __name = "Shanto" #-> Private Variable
+    
+    def __init__(self):
+        print(self.__name) #-> Private Variable Call
+        self.__displayInfo() #-> Call Private  Method
+        
+    # -> Private Method
+    def __displayInfo(self):
+        print("Private <😉/> Method")
+        
+    
+obj = Student()
+# print(obj.__name)
